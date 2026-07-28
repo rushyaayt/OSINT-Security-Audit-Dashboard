@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Security Audit Dashboard",
+  "description": "Automated passive reconnaissance, SSL inspection, security header auditing, tech stack fingerprinting, and SIEM report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
